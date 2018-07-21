@@ -1,0 +1,17 @@
+/* CSS */
+.img-redonda {
+  border-radius:55%;
+}
+/* obs.: Não é necessário colocar vírgula */
+.text-center{
+  text-align: center;
+}
+.img-center{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 15%
+}
+body{
+  background-color: #574b90
+}
